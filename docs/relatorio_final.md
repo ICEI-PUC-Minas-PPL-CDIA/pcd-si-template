@@ -11,12 +11,12 @@
 
 Professores:
 
-** Prof. NOme do Prof 1 **
-** Prof. NOme do Prof 2 **
+** Prof. Nome do Prof 1 **
+** Prof. Nome do Prof 2 **
 
 ---
 
-_Curso de Engenharia de Software, Unidade Praça da Liberdade_
+_Curso de Ciência de Dados, Unidade Praça da Liberdade_
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
@@ -28,158 +28,202 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 ---
 
 
-## 1. Introdução
+## Introdução
 
-A introdução deve apresentar de dois ou quatro parágrafos de contextualização do trabalho. 
+A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
 
-    1.1 Contextualização
+###    Contextualização
 
 Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
 A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
 A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
 
-    1.2 Problema
+###    Problema
 
-Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal.
+Nesse momento você deve apresentar o problema que seu agente pretende resolver. 
+No entanto, não é a hora de comentar sobre a aplicação.
+Descreva também o contexto em que essa aplicação será usada, se  houver: 
+empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, 
+pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-    1.3 Objetivo geral
+O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve 
+sucintamente apresentar o cenário de problema da empresa. A empresa só deve ser citada 
+explicitamente se o aluno tiver autorização para tal.
 
-O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.).
-
-        1.3.1 Objetivos específicos
-
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
-    1.4 Justificativas
-
-Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição do trabalho.
+> **Links Úteis**:
+> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 
-## 2. Participantes do processo
+###    Objetivo geral
 
-Apresente aqui os diferentes perfis dos Stakeholders (participantes do processo) chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários.
+Nesta seção deve-se escrever um pequeno parágrafo ou frase com o **objetivo geral** 
+do trabalho. O objetivo deve ser bem direto, específico e definido com verbos de 
+ação (elaborar, propor, avaliar, comparar etc.). No caso deste projeto, o objetivo é
+"desenvolver um sistema inteligente para ...". O seu objetivo geral deve ser uma
+pergunta orientada a dados. Ou seja, ela deve incluir de forma geral os dados em que
+os modelos irão se basear para atingir o objetivo.
 
-## 3. Modelagem do processo de negócio
+####    Objetivos específicos
 
-## 3.1. Análise da situação atual
+Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde 
+você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar 
+no seu trabalho.
 
-Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propoe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional.
-
-## 3.2. Descrição Geral da proposta
-
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
-## 3.3. Modelagem dos Processos
-
-### 3.3.1 Processo 1 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
-
-![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/process.png "Modelo BPMN do Processo 1.")
+> **Links Úteis**:
+> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
-### 3.3.2 Processo 2 – NOME DO PROCESSO
+###    Justificativas
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Mostre também as **justificativas** para o  desenvolvimento do seu trabalho e, caso deseje, 
+destaque alguma contribuição do trabalho.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/call_process.png "Modelo BPMN do Processo 2.")
+A justific ativa deve descrever a importância ou a motivação para o desenvolvimento do 
+sistema inteligente escolhido. Indique as razões pelas quais você escolheu seus objetivos 
+específicos ou as razões para aprofundar em certos aspectos do software.
 
-## 4. Projeto da Solução
+> **Links Úteis**:
+> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
-### 4.1. Detalhamento das atividades
 
-Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
-#### Processo 1 – NOME DO PROCESSO
+##    Público alvo
 
-**Nome da atividade 1**
+Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
+O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 
+na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos 
+usuários: conhecimentos prévios, relação com a tecnologia, relações
+hierárquicas, etc.
 
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-| ***Exemplo:***  |    |     |
-| login | Caixa de Texto | formato de e-mail |  |
-| senha | Caixa de Texto | mínimo de 8 caracteres |   |
+Adicione informações sobre o público-alvo por meio de uma descrição textual, 
+diagramas de personas e mapa de stakeholders.
 
-**Nome da atividade 2**
+> **Links Úteis**:
+> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
+> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
+> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
 
-#### Processo 2 – NOME DO PROCESSO
+## Análise exploratórida dos dados
 
-**Nome da atividade 1**
+###    Dicionário de dados
 
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+Apresente uma descrição das bases de dados a serem utilizadas. 
+Dicionários de dados devem conter as bases de dados, os nomes dos atributos 
+com seu significado, seu tipo (inteiro, real, textual, categórico, etc).
 
-**Nome da atividade 2**
+Este projeto deve utilizar pelo menos duas fontes de dados. Uma fonte principal e 
+uma fonte para enriquecimentos dos dados principais.
 
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
 
-### 4.2. Tecnologias
+###    Descrição de dados
 
-Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas. Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Utilize a análise descritiva baseada em estatística de primeira ordem para descrever os dados.
+Como descrever dados numéricos: média, desvio padrão, mínimo, máximo, quartis, histograma, etc.
+Como descrever dados qualitativos (categóricos): moda (valor mais frequente), quantidade de valores distintos (categorias), distribuição das categorias (histograma), etc.
 
-## 5. Modelo de dados
 
-Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos conceitos e atributos apresentados item anterior. 
+## Preparação dos dados
 
-![Diagrama de Entidade Relacionamento de Exemplo](imagens/er_diagram.png "Diagrama de Entidade Relacionamento de Exemplo")
+A preparação dos dados consiste dos seguintes passos:
 
-## 6. Indicadores de desempenho
+> - Seleção dos atributos
+> - Tratamentos dos valores faltantes ou omissos: remoção, substituição, indução, etc.
+> - Tratamento dos valores inconsistentes: conversão, remoção de dados duplicados, remoção ou tratamento de ouliers.
+> - Conversão de dados: p. ex. numérico para categórico, categórico para binário, etc.
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores.
 
-Usar o seguinte modelo:
+## Indução de modelos
 
-| **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
-| --- | --- | --- | --- | --- | --- |
-| Percentual reclamações | Avaliar quantitativamente as reclamações | Percentual de reclamações em relação ao total atendimento |   | Tabela reclamações | Aprendizado e Crescimento |
-| Taxa de Requisições abertas | Melhorar a prestação de serviços medindo a porcentagem de requisições | Mede % de requisições atendidas na semana | ![\frac{\sum{atendidas}}{\sum{requisicoes}}100](https://latex.codecogs.com/svg.latex?\frac{\sum{atendidas}}{\sum{requisicoes}}100) | Tabela solicitações | Processos internos |
-| Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês |   | Tabela Pedidos | Clientes |
+### Modelo 1: Algoritmo
 
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
+Substitua o título pelo nome do algoritmo que será utilizado. P. ex. árvore de decisão, rede neural, SVM, etc.
+Justifique a escolha do modelo.
+Apresente o processo utilizado para amostragem de dados (particionamento, cross-validation).
+Descreva os parâmetros utilizados. 
+Apresente trechos do código utilizado comentados. Se utilizou alguma ferramenta gráfica, apresente imagens
+com o fluxo de processamento.
 
-## 7.Sistema desenvolvido
+### Modelo 2: Algoritmo
 
-Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
+Repita os passos anteriores para o segundo modelo.
+
+
+## Resultados
+
+### Resultados obtidos com o modelo 1.
+
+Apresente aqui os resultados obtidos com a indução do modelo 1. 
+Apresente uma matriz de confusão quando pertinente. Apresente as medidas de performance
+apropriadas para o seu problema. 
+Por exemplo, no caso de classificação: precisão, revocação, F-measure, acurácia.
+
+### Interpretação do modelo 1
+
+Apresente os parâmetros do modelo obtido. Tentre mostrar as regras que são utilizadas no
+processo de 'raciocínio' (*reasoning*) do sistema inteligente. Utilize medidas como 
+o *feature importances* para tentar entender quais atributos o modelo se baseia no
+processo de tomada de decisão.
+
+
+### Resultados obtidos com o modelo 2.
+
+Repita o passo anterior com os resultados do modelo 2.
+
+### Interpretação do modelo 2
+
+Repita o passo anterior com os parâmetros do modelo 2.
+
+
+## Análise comparativa dos modelos
+
+Discuta sobre as forças e fragilidades de cada modelo. Exemplifique casos em que um
+modelo se sairia melhor que o outro. Nesta seção é possível utilizar a sua imaginação
+e extrapolar um pouco o que os dados sugerem.
+
+
+### Distribuição do modelo (opcional)
+
+Tende criar um pacote de distribuição para o modelo construído, para ser aplicado 
+em um sistema inteligente.
+
 
 ## 8. Conclusão
 
-Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo.
+Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, 
+onde se verifica as observações pessoais de cada aluno.
+
+Uma conclusão deve ter 3 partes:
+
+   * Breve resumo do que foi desenvolvido
+	 * Apresenação geral dos resultados obtidos com discussão das vantagens e desvantagens do sistema inteligente
+	 * Limitações e possibilidades de melhoria
+
 
 # REFERÊNCIAS
 
-Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso você deseje incluir referências relacionadas às tecnologias, padrões, ou metodologias que serão usadas no seu trabalho, relacione-as de acordo com a ABNT.
+Como um projeto de sistema inteligente não requer revisão bibliográfica, 
+a inclusão das referências não é obrigatória. No entanto, caso você 
+tenha utilizado referências na introdução ou deseje 
+incluir referências relacionadas às tecnologias, padrões, ou metodologias 
+que serão usadas no seu trabalho, relacione-as de acordo com a ABNT.
 
 Verifique no link abaixo como devem ser as referências no padrão ABNT:
 
 http://www.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
 
+Por exemplo:
 
-**[1.1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
 
-**[1.2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
+**[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
 
-**[1.3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
+**[3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
 
-**[1.4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
+**[4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
 
-**[1.5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
+**[5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
 
 
 

@@ -1,6 +1,6 @@
 # Nome do projeto
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
 
 ## Integrantes
 
@@ -11,7 +11,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professor
 
-* Nome completo do professor
+* Nome completo do professor (Prof. Hugo Bastos de Paula)
 
 ## Instruções de utilização
 
@@ -22,7 +22,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 * 0.1.1
     * CHANGE: Atualização das documentacoes. Código permaneceu inalterado.
 * 0.1.0
-    * Implementação da funcionalidade X pertencente ao processo P.
+    * Indução do primeiro modelo do agente inteligente.
 * 0.0.1
-    * Trabalhando na modelagem do processo de negócios.
+    * Trabalhando na preparação dos dados.
 
