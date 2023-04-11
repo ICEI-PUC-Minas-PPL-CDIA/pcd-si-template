@@ -1,0 +1,15 @@
+Aparência;Temperatura;Umidade;Vento;Jogar
+Ensolarado;85;85;Fraco;Não
+Ensolarado;80;90;Forte;Não
+Nublado;83;86;Fraco;Sim
+Chuvoso;70;96;Fraco;Sim
+Chuvoso;68;80;Fraco;Sim
+Chuvoso;65;70;Forte;Não
+Nublado;64;65;Forte;Sim
+Ensolarado;72;95;Fraco;Não
+Ensolarado;69;70;Fraco;Sim
+Chuvoso;75;80;Fraco;Sim
+Ensolarado;75;70;Forte;Sim
+Nublado;72;90;Forte;Sim
+Nublado;81;75;Fraco;Sim
+Chuvoso;71;91;Forte;Não
